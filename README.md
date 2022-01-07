@@ -1,5 +1,6 @@
 <script>
-document.getElementsByTagName("h1").item(0).innerHTML = "packwiz-gui Docs"
+document.getElementsByTagName("h1").item(0).style.display = "none"
+document.getElementById("downloads").style.display = "none"
 </script>
 ## Getting Started
 - [Basic Usage](./basic-usage.md): How to get `packwiz-gui` running.
