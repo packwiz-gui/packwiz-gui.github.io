@@ -1,7 +1,6 @@
 <script>
 document.getElementsByTagName("h1").item(0).innerHTML = "packwiz-gui Docs"
 </script>
-<b>test</b>
 ## Getting Started
 - [Basic Usage](./basic-usage.md): How to get `packwiz-gui` running.
 - [Building](./build.py.md): How to build `packwiz-gui`.
