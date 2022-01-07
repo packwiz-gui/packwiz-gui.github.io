@@ -1,4 +1,6 @@
-# Index
+<script>
+document.getElementsByTagName("h1").item(0).innerHTML = "packwiz-gui Docs"
+</script>
 
 ## Getting Started
 - [Basic Usage](./basic-usage.md): How to get `packwiz-gui` running.
