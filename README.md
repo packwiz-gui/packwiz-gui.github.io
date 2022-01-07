@@ -1,7 +1,4 @@
-<script>
-document.getElementsByTagName("h1").item(0).style.display = "none"
-document.getElementById("downloads").style.display = "none"
-</script>
+<script src=/js/main.js>
 ## Getting Started
 - [Basic Usage](./basic-usage.md): How to get `packwiz-gui` running.
 - [Building](./build.py.md): How to build `packwiz-gui`.
