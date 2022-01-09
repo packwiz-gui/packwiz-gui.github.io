@@ -7,7 +7,5 @@
 ## Bug Reporting
 - [Known Bugs](./bugs.md): A list of known bugs that are difficult or impossible to fix by us, and workarounds for some of them.
 
-- [Website source](https://packwiz-gui.github.io)
+- [Website source](https://github.com/packwiz-gui/packwiz-gui.github.io)
 - [packwiz-gui source](https://github.com/packwiz-gui/packwiz-gui)
-
-<!-- Spank me daddy exo -->
